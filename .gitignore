@@ -21,3 +21,5 @@ buildNumber.properties
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 .paper-nms
+
+Server-1.21.4/
