@@ -1,0 +1,8 @@
+name: HelloWorld
+version: '1.0.0'
+main: de.linushuck.helloWorld.HelloWorld
+api-version: '1.21'
+commands:
+  hello:
+    description: Says hello to the player
+    usage: /<command>
